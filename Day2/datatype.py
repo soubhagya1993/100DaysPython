@@ -1,5 +1,10 @@
 #Data Types
 
+# Use type function to check any data type
+a = float(123)
+print(type(a))
+# O/P - <class 'float'>
+
 #strings
 "Hello"[2]
 
@@ -19,3 +24,5 @@ print (123 + 456)
 #Boolean
 True 
 False
+
+
